@@ -1,10 +1,5 @@
 PyMAPDL
 =======
-.. image:: https://img.shields.io/pypi/v/ansys-mapdl-core.svg
-    :target: https://pypi.org/project/ansys-mapdl-core/
-
-.. image:: https://dev.azure.com/pyansys/pyansys/_apis/build/status/pyansys.pymapdl?branchName=master
-    :target: https://dev.azure.com/pyansys/pyansys/_build/latest?definitionId=5&branchName=master
 
 .. image:: https://zenodo.org/badge/70696039.svg
    :target: https://zenodo.org/badge/latestdoi/70696039
